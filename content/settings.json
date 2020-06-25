@@ -1,22 +1,22 @@
 {
-  "store_id": 1117,
-  "name": "Baby_Theme",
   "domain": "vigilant-goodall-1fef48.netlify.app",
-  "short_name": "TudyBaby",
-  "description": "Tudo de Bebê",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/tudybaby3.png",
+  "name": "Baby_Theme",
+  "short_name": "TudyBaby",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "/img/uploads/favicon.jpg",
+  "favicon": "/img/uploads/favicon.jpg",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/favicon.jpg",
+  "store_id": 1117,
+  "description": "Tudo de Bebê! Aqui sua compra vale a pena!\n\nEntrega mais rápida do Brasil!\n\nFrete Grátis a partir de R$ 99,90.",
+  "large_icon": "/img/uploads/tudybaby3.png"
 }
