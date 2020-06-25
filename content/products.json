@@ -10,11 +10,11 @@
     },
     {
       "type": "related-products",
-      "title": "Produtos relacionados"
+      "title": "Produtos mais procurados"
     },
     {
       "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
+      "title": "Quem comprou este produto,levou junto:"
     },
     {
       "type": "product-description",
@@ -22,6 +22,10 @@
     },
     {
       "type": "product-specifications",
+      "enabled": true
+    },
+    {
+      "type": "product-block",
       "enabled": true
     }
   ]
