@@ -27,6 +27,20 @@
     {
       "type": "product-block",
       "enabled": true
+    },
+    {
+      "type": "product-description",
+      "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2020-06-25T20:20:38.748Z",
+      "end": "2030-06-25T20:20:00.000Z",
+      "offers": [
+        "5ef2687614ff772fde7ad920"
+      ],
+      "notes": "Não perca essa oportunidade!!! "
     }
   ]
 }
