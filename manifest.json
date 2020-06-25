@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "ThaThemes",
-  "short_name": "MyShop",
+  "name": "Baby_Theme",
+  "short_name": "TudyBaby",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "My PWA Shop",
+  "description": "Tudo de Bebê",
   "background_color": "#ffffff",
   "theme_color": "#222831"
 }
