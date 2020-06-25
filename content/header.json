@@ -1,24 +1,22 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Oferta relâmpago!!! Clique e Confira!!!",
     "link": "/promotion"
   },
   "contacts_stripe": {
     "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
+      {}
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/meninas?Meninas",
+      "/meninos?Meninos",
+      "/bebes?Bebês",
+      "/outlet?Outlet"
+    ],
     "random": 6
   },
   "search_input": true
