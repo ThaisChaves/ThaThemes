@@ -1,7 +1,7 @@
 {
   "domain": "vigilant-goodall-1fef48.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#ff686b",
   "theme": {
     "bootswatch": "_"
   },
@@ -14,7 +14,7 @@
   "mini_logo": "/img/uploads/favicon.jpg",
   "favicon": "/img/uploads/favicon.jpg",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#84dcc6",
   "icon": "/img/uploads/favicon.jpg",
   "store_id": 1117,
   "description": "Tudo de Bebê! Aqui sua compra vale a pena!\n\nEntrega mais rápida do Brasil!\n\nFrete Grátis a partir de R$ 99,90.",
