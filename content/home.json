@@ -3,20 +3,25 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-06-29T19:43:43.626Z",
-          "end": "2020-06-29T19:43:43.652Z",
-          "img": "/img/uploads/banner2-2-.png",
-          "mobile_img": "/img/uploads/little-girl-2516582_1920-5-.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner2-2-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bebe.png",
+          "mobile_img": "/img/uploads/meninas.png"
         }
       ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "info-bar",
@@ -39,7 +44,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"send-offers\">\n    <div class=\"send-offers__description\">\n        Imagina só receber\n        <br>\n        <strong>as melhores ofertas</strong>\n    </div>\n    <div class=\"send-offers__form\">\n        <input type=\"text\" name=\"email\" id=\"newsletter\" title=\"Assine nossa newsletter\"\n            class=\"input-text form-control required-entry validate-email\" placeholder=\"Digite seu email...\">\n        <div class=\"actions\">\n            <button type=\"submit\" title=\"Assinar\" class=\"btn btn-primary btn-block\"><span><i class=\"fas fa-gift\"\n                        aria-hidden=\"true\"></i><span>Assinar</span></span></button>\n        </div>\n    </div>\n</div>"
+      "html": "<div class=\"send-offers\">\n    <div class=\"send-offers__description\">\n        Imagina só receber\n        <strong>as melhores ofertas</strong>\n    </div>\n    <div class=\"send-offers__form\">\n        <input type=\"text\" name=\"email\" id=\"newsletter\" title=\"Assine nossa newsletter\"\n            class=\"input-text form-control required-entry validate-email\" placeholder=\"Digite seu email...\">\n        <div class=\"actions\">\n            <button type=\"submit\" title=\"Assinar\" class=\"btn btn-primary btn-block\"><span><i class=\"fas fa-envelope\"\n                        aria-hidden=\"true\"></i><span>Receber ofertas</span></span></button>\n        </div>\n    </div>\n</div>"
     }
   ]
 }
