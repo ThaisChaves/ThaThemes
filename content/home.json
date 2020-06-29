@@ -3,10 +3,23 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
         {
-          "img": "/img/uploads/banner2-2-.png"
+          "start": "2020-06-29T19:43:43.626Z",
+          "end": "2020-06-29T19:43:43.652Z",
+          "img": "/img/uploads/banner2-2-.png",
+          "mobile_img": "/img/uploads/little-girl-2516582_1920-5-.png"
+        },
+        {
+          "start": "2020-06-29T19:49:35.396Z",
+          "end": "2020-06-29T19:49:35.422Z",
+          "img": "/img/uploads/little-girl-2516582_1920-5-.png"
         }
       ]
     },
@@ -30,15 +43,8 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2020-06-29T19:43:43.626Z",
-          "end": "2020-06-29T19:43:43.652Z",
-          "img": "/img/uploads/bebe.png"
-        }
-      ]
+      "type": "custom-html",
+      "html": "<span class=\"text\">\n                        Imagina só receber \n    <strong>as melhores ofertas</strong>\n    <br> \n    de bandeja por email. Bom, né?      \n             </span>\n\n<div class=\"input-box\">\n            <input type=\"text\" name=\"email\" id=\"newsletter\" title=\"Assine nossa newsletter\" class=\"input-text form-control required-entry validate-email\" placeholder=\"Digite seu email...\">\n            <div class=\"actions\">\n                <button type=\"submit\" title=\"Assinar\" class=\"btn btn-success\"><span><i class=\"fa fa-paper-plane\" aria-hidden=\"true\"></i><span>Assinar</span></span></button>\n            </div>\n        </div>"
     }
   ]
 }
