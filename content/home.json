@@ -3,6 +3,14 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner2-2-.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -17,7 +25,8 @@
       "start": "2020-06-29T18:51:07.094Z",
       "end": "2020-07-29T18:51:00.000Z",
       "offers": [
-        "5ef2687614ff772fde7ad920"
+        "5ef2687614ff772fde7ad920",
+        "5ef2746f14ff772fde7adbab"
       ]
     }
   ]
