@@ -21,12 +21,23 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 24,
+      "max_hours": 16,
       "start": "2020-06-29T18:51:07.094Z",
       "end": "2020-07-29T18:51:00.000Z",
       "offers": [
         "5ef2687614ff772fde7ad920",
         "5ef2746f14ff772fde7adbab"
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-06-29T19:43:43.626Z",
+          "end": "2020-06-29T19:43:43.652Z",
+          "img": "/img/uploads/bebe.png"
+        }
       ]
     }
   ]
