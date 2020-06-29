@@ -1,14 +1,14 @@
 {
   "marketing_stripe": {
     "text": "Oferta relâmpago!!! Clique e Confira!!!",
-    "link": "/promotion"
+    "link": "/outlet"
   },
   "contacts_stripe": {
     "pages": [
       {}
     ],
     "phone_wpp": false,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
     "featured": [
@@ -19,5 +19,5 @@
     ],
     "random": 6
   },
-  "search_input": false
+  "search_input": true
 }
