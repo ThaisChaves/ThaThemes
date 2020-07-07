@@ -30,13 +30,18 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 16,
+      "max_hours": 18,
       "start": "2020-06-29T18:51:07.094Z",
-      "end": "2020-07-29T18:51:00.000Z",
+      "end": "2021-07-31T18:51:00.000Z",
       "offers": [
         "5ef2687614ff772fde7ad920",
-        "5ef2746f14ff772fde7adbab"
-      ]
+        "5ef2746f14ff772fde7adbab",
+        "5ef3b42b14ff772fde7b1ecc",
+        "5efa1c1d14ff772fde7bd3bc",
+        "5ef3b71814ff772fde7b205c",
+        "5efa0e5b14ff772fde7bd031"
+      ],
+      "notes": "Ofertas imperdíveis de inverno! Não perca tempo. Garanta o seu!!!"
     },
     {
       "type": "info-bar",
