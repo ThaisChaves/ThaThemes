@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -39,13 +43,11 @@
         "5ef3b42b14ff772fde7b1ecc",
         "5efa1c1d14ff772fde7bd3bc",
         "5ef3b71814ff772fde7b205c",
-        "5efa0e5b14ff772fde7bd031"
+        "5efa0e5b14ff772fde7bd031",
+        "5ef3b1fd14ff772fde7b1d5c",
+        "5efa0f5d14ff772fde7bd09d"
       ],
       "notes": "Ofertas imperdíveis de inverno! Não perca tempo. Garanta o seu!!!"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
