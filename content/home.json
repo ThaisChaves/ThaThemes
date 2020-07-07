@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -29,7 +25,7 @@
       ]
     },
     {
-      "type": "breadcrumbs",
+      "type": "info-bar",
       "enabled": true
     },
     {
@@ -38,16 +34,18 @@
       "start": "2020-06-29T18:51:07.094Z",
       "end": "2021-07-31T18:51:00.000Z",
       "offers": [
-        "5ef2687614ff772fde7ad920",
         "5ef2746f14ff772fde7adbab",
         "5ef3b42b14ff772fde7b1ecc",
         "5efa1c1d14ff772fde7bd3bc",
-        "5ef3b71814ff772fde7b205c",
         "5efa0e5b14ff772fde7bd031",
         "5ef3b1fd14ff772fde7b1d5c",
         "5efa0f5d14ff772fde7bd09d"
       ],
       "notes": "Ofertas imperdíveis de inverno! Não perca tempo. Garanta o seu!!!"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
