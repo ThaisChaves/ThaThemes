@@ -1,5 +1,5 @@
 {
-  "css": ".header__countdonw{\n  background-color: blue;\n}",
+  "css": ".top-bar__countdown {\n  background-color: blue !important;\n}",
   "html_head": "",
   "html_body": ""
 }
