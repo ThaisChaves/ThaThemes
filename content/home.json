@@ -29,6 +29,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<strong> Não perca tempo! as melhores ofertas estão aqui por pouco tempo!</strong>"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 18,
       "start": "2020-06-29T18:51:07.094Z",
