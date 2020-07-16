@@ -10,17 +10,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner2-2-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/bebe-2-2-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/meninas-1-2-.png",
-          "mobile_img": ""
         }
       ]
     },
@@ -31,6 +20,10 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bebe-2-2-.png"
     },
     {
       "type": "page-title",
@@ -48,6 +41,10 @@
         "5efa0e5b14ff772fde7bd031"
       ],
       "notes": "Ofertas imperdíveis de inverno! Não perca tempo!!!"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/meninas-1-.png"
     },
     {
       "type": "collection-shelf",
