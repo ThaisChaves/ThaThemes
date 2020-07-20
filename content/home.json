@@ -10,11 +10,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner2-2-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/menina-com-chapeu.png"
         }
       ]
     },
@@ -25,6 +20,20 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/menina-com-chapeu.png"
+        },
+        {
+          "img": "/img/uploads/logo-banner.png"
+        },
+        {
+          "img": "/img/uploads/bebe-cegonha.png"
+        }
+      ]
     },
     {
       "type": "responsive-banner",
@@ -67,9 +76,6 @@
         },
         {
           "img": "/img/uploads/menino.png"
-        },
-        {
-          "img": "/img/uploads/bebe-cegonha.png"
         }
       ]
     }
