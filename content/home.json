@@ -36,10 +36,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/bebe-1-.png"
-    },
-    {
       "type": "page-title",
       "title": "Ofertas com tempo Limitado!"
     },
@@ -55,6 +51,10 @@
         "5efa0e5b14ff772fde7bd031"
       ],
       "notes": "Ofertas imperdíveis de inverno! Não perca tempo!!!"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bebe-1-.png"
     },
     {
       "type": "collection-shelf",
