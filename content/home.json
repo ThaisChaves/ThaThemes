@@ -10,6 +10,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner2-2-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/menina-com-chapeu.png"
         }
       ]
     },
@@ -64,7 +69,7 @@
           "img": "/img/uploads/menino.png"
         },
         {
-          "img": "/img/uploads/bebe.png"
+          "img": "/img/uploads/bebe-cegonha.png"
         }
       ]
     }
