@@ -25,13 +25,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/menina-com-chapeu.png"
+          "img": "/img/uploads/menina-com-chapeu2.png"
         },
         {
-          "img": "/img/uploads/logo-banner.png"
+          "img": "/img/uploads/logo-banner2.png"
         },
         {
-          "img": "/img/uploads/bebe-cegonha.png"
+          "img": "/img/uploads/bebe-de-macacao.png"
         }
       ]
     },
@@ -69,10 +69,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/menina.png"
+          "img": "/img/uploads/menina_lado.png"
         },
         {
-          "img": "/img/uploads/little-girl-2516582_1920-3-.png"
+          "img": "/img/uploads/bebe_mamadeira.png"
         },
         {
           "img": "/img/uploads/menino.png"
