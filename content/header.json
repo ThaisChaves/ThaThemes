@@ -15,7 +15,9 @@
       "/meninas?Meninas",
       "/meninos?Meninos",
       "/bebes?Bebês",
-      "/outlet?Outlet"
+      "/outlet?Outlet",
+      "/body?Body",
+      "/vestido?Vestido"
     ],
     "random": 0
   },
