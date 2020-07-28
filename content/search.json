@@ -3,6 +3,10 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bebe-1-.png"
     }
   ]
 }
